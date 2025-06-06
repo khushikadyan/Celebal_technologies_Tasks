@@ -25,6 +25,7 @@ To run a script, use:
 
 ```bash
 python filename.py
+```
 
 #Author
 Khushi Kadyan 
