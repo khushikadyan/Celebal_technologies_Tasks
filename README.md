@@ -4,7 +4,7 @@ This repository contains solutions to a set of Python programming tasks designed
 ### Task-
 py-if-else task: Uses conditional statements (if-elif-else) to make decisions based on input values. python-arithmetic-operators: Involves performing basic mathematical operations like addition, subtraction, multiplication, and division. compress-the-string: Compresses a string by counting consecutive characters, often using itertools.groupby(). the-minion-game: A string game where players earn points by forming substrings starting with vowels or consonants. write-a-function: Teaches how to define reusable blocks of code using the def keyword. word-order: Counts and displays the number of occurrences of each word while preserving their input order. iterables-and-iterators: Works with iterators and combinations to solve problems involving sequences and probabilities. python-tuples: Introduces immutable sequences and their use in operations like hashing. finding-the-percentage: Calculates and formats the average marks of a student from a given dataset. python-string-formatting: Demonstrates ways to format and align strings and numbers for clean output.
 
-## 📁 Tasks Covered
+## Tasks Covered
 
 | Task Name                  | Description                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
@@ -20,3 +20,8 @@ py-if-else task: Uses conditional statements (if-elif-else) to make decisions ba
 | `python-string-formatting`| Shows how to align and format strings and numbers for clean output.        |
 
 ---
+# How to Run the Scripts
+To run a script, use:
+
+```bash
+python filename.py
