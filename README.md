@@ -27,9 +27,9 @@ To run a script, use:
 python filename.py
 ```
 
-#Author
+## 👩‍💻 Author
 
-Khushi Kadyan
-B.Tech CSE (DSAI)
-Inter at Celebal Technologies
-LinkedIn Profile - https://www.linkedin.com/in/khushi-kadyan-03s12a2004r/
+**Khushi Kadyan**  
+B.Tech CSE (DSAI)  
+Intern at Celebal Technologies  
+[LinkedIn Profile](https://www.linkedin.com/in/khushi-kadyan-03s12a2004r/)
