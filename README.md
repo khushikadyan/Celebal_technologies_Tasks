@@ -27,7 +27,7 @@ To run a script, use:
 python filename.py
 ```
 
-## 👩‍💻 Author
+##  Author
 
 **Khushi Kadyan**  
 B.Tech CSE (DSAI)  
