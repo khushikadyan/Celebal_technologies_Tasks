@@ -28,7 +28,8 @@ python filename.py
 ```
 
 #Author
-Khushi Kadyan 
+
+Khushi Kadyan
 B.Tech CSE (DSAI)
 Inter at Celebal Technologies
 LinkedIn Profile - https://www.linkedin.com/in/khushi-kadyan-03s12a2004r/
