@@ -13,7 +13,6 @@ py-if-else task: Uses conditional statements (if-elif-else) to make decisions ba
 | `compress-the-string`     | Compresses strings by counting consecutive characters using `itertools.groupby()`. |
 | `the-minion-game`         | A string game involving substrings formed from vowels and consonants.      |
 | `write-a-function`        | Defines reusable functions using `def`, e.g., checking for leap years.     |
-| `word-order`              | Counts occurrences of words while preserving their input order.            |
 | `iterables-and-iterators` | Works with iterators and combinations to solve probabilistic problems.     |
 | `python-tuples`           | Demonstrates use of immutable sequences and tuple hashing.                 |
 | `finding-the-percentage`  | Calculates and formats average marks of a student.                         |
