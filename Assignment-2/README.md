@@ -27,3 +27,10 @@ Each task is implemented in its own Python file. You can run them individually u
 ```bash
 python filename.py
 ```
+
+##  Author
+
+**Khushi Kadyan**  
+B.Tech CSE (DSAI)  
+Intern at Celebal Technologies  
+[LinkedIn Profile](https://www.linkedin.com/in/khushi-kadyan-03s12a2004r/)
