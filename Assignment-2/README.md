@@ -28,6 +28,15 @@ Each task is implemented in its own Python file. You can run them individually u
 python filename.py
 ```
 
+# Screenshots
+A folder named /screenshots has been included in the project directory. It contains visual proof of execution for each Python script.
+
+Each screenshot shows the terminal output after running the corresponding script.
+
+This helps in validating functionality and understanding expected input/output.
+
+To view the results, navigate to the /screenshots folder and open the image files.
+
 ##  Author
 
 **Khushi Kadyan**  
