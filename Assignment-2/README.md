@@ -4,7 +4,7 @@ This repository contains solutions to various  Python programming tasks, assigne
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 | Filename                          | Task Name                 | Description                                                                 |
 |----------------------------------|---------------------------|-----------------------------------------------------------------------------|
@@ -20,7 +20,7 @@ This repository contains solutions to various  Python programming tasks, assigne
 
 ---
 
-## 🧪 How to Run
+##  How to Run
 
 Each task is implemented in its own Python file. You can run them individually using:
 
