@@ -91,5 +91,7 @@ Query all cities in the CITY table where COUNTRYCODE = 'JPN'.
 ## Author
 Khushi Kadyan
 B.Tech CSE (DSAI) Student
+
 Email: [kadyankhushi290@gmail.com]
+
 [LinkedIn Profile](https://www.linkedin.com/in/khushi-kadyan-03s12a2004r/)
