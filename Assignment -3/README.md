@@ -111,4 +111,8 @@ Output:
 
 ---
 
+## Author
+Khushi Kadyan
+B.Tech CSE (DSAI) Student
+📧 Email: [kadyankhushi290@gmail.com]
 
