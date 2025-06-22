@@ -40,7 +40,6 @@ Query a list of employee names ordered alphabetically.
 
 ![Screenshot 2025-06-22 132828](https://github.com/user-attachments/assets/e00a65c0-de4a-4957-b177-928ff6c90fe0)
 
-Output:
 ![Screenshot 2025-06-22 132920](https://github.com/user-attachments/assets/a40373bb-c84b-4c98-9693-3872f833bc1d)
 
 ---
