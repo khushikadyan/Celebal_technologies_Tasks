@@ -30,18 +30,20 @@ This repository contains SQL solutions for various problems as part of an intern
    git clone https://github.com/your-username/sql-internship-assignment.git
    ```
 ##  Assignment Problems Covered
-1. Select All
+Select All
 Query all columns for every row in the CITY table.
 output -
 ![select_all](https://github.com/user-attachments/assets/e5f0e38a-0f13-4f10-b932-e2091d83ba1a)
+
 ---
 
-2. Select By ID
+Select By ID
 Query details of the city where ID = 1661.
 ![Screenshot 2025-06-22 132257](https://github.com/user-attachments/assets/88cb54d0-8bd6-40b1-bb41-e1ffef82fbe0)
 
 ---
-3. Employee Names
+
+Employee Names
 Query a list of employee names ordered alphabetically.
 sample table- 
 ![Screenshot 2025-06-22 132828](https://github.com/user-attachments/assets/e00a65c0-de4a-4957-b177-928ff6c90fe0)
@@ -49,14 +51,15 @@ output-
 ![Screenshot 2025-06-22 132920](https://github.com/user-attachments/assets/a40373bb-c84b-4c98-9693-3872f833bc1d)
 
 ---
-4. Japanese Cities
+
+Japanese Cities
 Query all cities in the CITY table where COUNTRYCODE = 'JPN'.
 output-
 ![Screenshot 2025-06-22 133701](https://github.com/user-attachments/assets/f5ba2630-74eb-413f-b301-00cb91996693)
 
 ---
 
-5. Weather Observation Station Series:
+Weather Observation Station Series:
 
 i) Query list of CITY and STATE.
 output-
@@ -81,7 +84,7 @@ output for longest name-
 ![Screenshot 2025-06-22 142407](https://github.com/user-attachments/assets/da76ea0f-78e8-4dbd-8099-8e7d8092f692)
 
 
-6. Average Population
+Average Population
 
 i) Calculate average population of all cities (rounded down).
 output-
@@ -94,4 +97,4 @@ output-
 
 ---
 
-format this
+
