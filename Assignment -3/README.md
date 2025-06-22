@@ -47,56 +47,65 @@ Output:
 
 ---
 
-Employee Names
+**Employee Names**
 Query a list of employee names ordered alphabetically.
+
 sample table- 
 ![Screenshot 2025-06-22 132828](https://github.com/user-attachments/assets/e00a65c0-de4a-4957-b177-928ff6c90fe0)
-output-
+
+Output:
 ![Screenshot 2025-06-22 132920](https://github.com/user-attachments/assets/a40373bb-c84b-4c98-9693-3872f833bc1d)
 
 ---
 
-Japanese Cities
+**Japanese Cities**
 Query all cities in the CITY table where COUNTRYCODE = 'JPN'.
-output-
+
+Output:
 ![Screenshot 2025-06-22 133701](https://github.com/user-attachments/assets/f5ba2630-74eb-413f-b301-00cb91996693)
 
 ---
 
-Weather Observation Station Series:
+**Weather Observation Station Series:**
 
-i) Query list of CITY and STATE.
-output-
+1.Query list of CITY and STATE.
+
+Output:
 ![Screenshot 2025-06-22 141850](https://github.com/user-attachments/assets/040aa787-7e2f-44fb-a83e-e81034ab1231)
 
 
-ii) Query CITY names with even ID.
-output-
+2.Query CITY names with even ID.
+
+Output:
 ![Screenshot 2025-06-22 141936](https://github.com/user-attachments/assets/2d0d2a1b-12e4-4597-aad6-c2f904547e65)
 
 
-iii) Find difference between total and distinct city names.
-output-
+3.Find difference between total and distinct city names.
+
+Output:
 ![Screenshot 2025-06-22 142157](https://github.com/user-attachments/assets/6d1e23e1-08b3-4ce4-ba1f-c272c43bf82d)
 
 
-iv) Find cities with shortest and longest names.
-output for shortest name-
+4.Find cities with shortest and longest names.
+
+output for shortest name:
 ![Screenshot 2025-06-22 142356](https://github.com/user-attachments/assets/e9906b3f-6f75-4398-837d-22b5bd7020c6)
 
-output for longest name-
+output for longest name:
 ![Screenshot 2025-06-22 142407](https://github.com/user-attachments/assets/da76ea0f-78e8-4dbd-8099-8e7d8092f692)
 
 
-Average Population
+**Average Population**
 
-i) Calculate average population of all cities (rounded down).
-output-
+1.Calculate average population of all cities (rounded down).
+
+Output:
 ![Screenshot 2025-06-22 142832](https://github.com/user-attachments/assets/58087350-9981-49c2-a730-a172cf5d3eae)
 
 
-ii) Calculate average population by continent using JOIN.
-output-
+2.Calculate average population by continent using JOIN.
+
+Output:
 ![Screenshot 2025-06-22 143349](https://github.com/user-attachments/assets/417c9025-e83b-444e-b648-ed67ed448e01)
 
 ---
