@@ -23,7 +23,6 @@ This repository contains SQL solutions for various problems as part of an intern
 **Select All**  
 Query all columns for every row in the CITY table.  
 
-Output: 
 ![select_all](https://github.com/user-attachments/assets/e5f0e38a-0f13-4f10-b932-e2091d83ba1a)
 
 
