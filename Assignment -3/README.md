@@ -4,17 +4,6 @@ This repository contains SQL solutions for various problems as part of an intern
 
 ---
 
-##  Table of Contents
-
-- [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
-- [Database Schema](#database-schema)
-- [Assignment Problems](#assignment-problems)
-- [Sample Data Insertion](#sample-data-insertion)
-- [Author](#author)
-
----
-
 ##  Technologies Used
 
 - SQL
