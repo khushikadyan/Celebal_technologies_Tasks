@@ -78,10 +78,9 @@ Output:
 
 4.Find cities with shortest and longest names.
 
-output for shortest name:
+output:
 ![Screenshot 2025-06-22 142356](https://github.com/user-attachments/assets/e9906b3f-6f75-4398-837d-22b5bd7020c6)
 
-output for longest name:
 ![Screenshot 2025-06-22 142407](https://github.com/user-attachments/assets/da76ea0f-78e8-4dbd-8099-8e7d8092f692)
 
 
