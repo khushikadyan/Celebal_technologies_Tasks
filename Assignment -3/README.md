@@ -25,10 +25,11 @@ This repository contains SQL solutions for various problems as part of an intern
 
 ## 🚀 How to Run
 
-2. Clone this repository:
+1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/sql-internship-assignment.git
    ```
+2. To view the actual SQL code for each problem, please check the corresponding .sql files located in the folder.
 ##  Assignment Problems Covered
 **Select All**  
 Query all columns for every row in the CITY table.  
