@@ -39,8 +39,10 @@ Output:
 
 ---
 
-Select By ID
+**Select By ID**
 Query details of the city where ID = 1661.
+
+Output: 
 ![Screenshot 2025-06-22 132257](https://github.com/user-attachments/assets/88cb54d0-8bd6-40b1-bb41-e1ffef82fbe0)
 
 ---
